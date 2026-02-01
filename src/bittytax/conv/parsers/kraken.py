@@ -754,7 +754,7 @@ DataParser(
         "margin",
         "misc",
         "ledgers",
-        "postxid",
+        "posttxid",
         "posstatuscode",
         "cprice",
         "ccost",
